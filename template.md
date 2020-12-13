@@ -5,8 +5,9 @@ To allow import into [testpad](https://satoshilabs.ontestpad.com/) we need to st
 ## Suite: Single Backup With Recovery Check
 
 ```
-Priority: Business Critical
-Firmware: latest
+Priority: P1 Business Critical 🔥
+Firmware: Latest
+Type: Desktop
 ```
 
 1. Wipe Device (via trezorctl wipe-device).\

@@ -1,12 +1,9 @@
-# Template Scenario
-
-To allow import into [testpad](https://satoshilabs.ontestpad.com/) we need to stick to a certain format.
-
-## Suite: Single Backup With Recovery Check
+# Suite: Single Backup With Recovery Check
 
 ```
-Priority: Business Critical
-Firmware: latest
+Priority: P1 Business Critical 🔥
+Firmware: Latest
+Type: Desktop
 ```
 
 1. Wipe Device (via trezorctl wipe-device).\

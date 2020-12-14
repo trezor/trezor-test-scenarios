@@ -16,5 +16,5 @@ Type: Desktop
   ➡️ Install wizard is opened and installation is initiated.
 5. Select an arbitrary installation folder and complete the wizard.\
   ➡️ Installation is completed, wizard is closed.
-6. Launch Suite app.
+6. Launch Suite app.\
   ➡️  Suite is launched and a welcome/splash screen is displayed.

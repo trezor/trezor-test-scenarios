@@ -11,6 +11,6 @@ Type: Desktop + Browser
 3. Navigate to Dashboard / Security and try to toggle discreet mode on / off.\
 ➡️ Account balances and graphs vanishes and appears
 4. Click EYE icon in top right corner few times.\
-➡️ Account balances and graphs vanishes and appears, Dashboard / Security / Discreet mode status is changing accordingly
+➡️ Account balances and graphs vanishes and appears, state of the tile on Dashboard corresponds to the state of the icon in off and on states
 5. Try to use both switches in same test step. \
-➡️ Check that they behave correctly and they are not inverted 
+➡️ Both switches behave correctly and they are not inverted 

@@ -1,8 +1,8 @@
 # Suite:Discrete mode
 ```
-Priority: undefined
+Priority: P3
 Firmware: Latest
-Type: Desktop
+Type: Desktop + Browser
 ```
 1. Navigate to Dashboard / Security.\
 ➡️ Discreet mode feature is available

@@ -1,0 +1,24 @@
+## Suite: Dashboard Graph 
+
+```
+Priority: TODO 🔥
+Firmware: Latest
+Type: Desktop
+```
+
+1. Navigate to Settings in the upper right corner.\
+  ➡️ Gear icon, redirected to Settings.
+2. Select the meatball menu (three horizontal dots), toggle.\
+  ➡️ Menu with Support and Show log is displayed or hidden.
+3. Select Support
+  ➡️ Redirected to Trezor Support page in new tab of default browser (warning displayed when in Tor).\
+Super secret
+  ➡️ secret things
+4. Show log.
+  ➡️ Application log is displayed.
+5. Actions with log.
+  ➡️  
+6. Activate Super secret thing.\
+  ➡️ secret thing appears as third option.
+7. Inspect Super secret thing.
+  ➡️ Super secret actions.

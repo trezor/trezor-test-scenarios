@@ -8,7 +8,7 @@ Type: Desktop
 
 1. Verify graph's content on the Dashboard - called Portfolio.\
   ➡️ Data displayed in the graph depends on various factors - coins selected (+ no coins), no tx history, price in the default or selected currency, tooltip default view.
-2. Select meatball menu (three horizontal dots) and toggle between available views.
+2. Select meatball menu (three horizontal dots) and toggle between available views.\
   ➡️ Graph View with Linear and Logarithimic options, selecting either renders graph accordingly. 
 3. Toggle between range selector values.\
   ➡️ Range changes according to the x-axis according to range, y-axis according to tx values.

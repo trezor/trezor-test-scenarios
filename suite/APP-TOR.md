@@ -16,5 +16,7 @@ Type: Desktop
   ➡️ External trezor.io links point to .onion links.
 5. Load accounts to see that Onion backends are behaving correctly.\
   ➡️ Transaction history is loaded correctly.
-6. Turn on and off the Tor switch in right top corner to verify it's functionality. \
+6. Toggle the Tor switch in right top corner.\
   ➡️ Tor mode is enabled and disabled accordingly
+7. Enable Tor and select an arbitrary article on the dashboard.\
+  ➡️ A warning modal with about a redirect to a non-onion site with confirmation and cancel is displayed when connected to Tor.

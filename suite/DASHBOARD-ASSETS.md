@@ -1,4 +1,4 @@
-## Suite: Dashboard Graph 
+## Suite: Dashboard Assets 
 
 ```
 Priority: TODO 🔥

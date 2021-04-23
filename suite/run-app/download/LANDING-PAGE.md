@@ -1,4 +1,4 @@
-## Suite: App download 
+## Suite: OS detection
 
 ```
 Priority: P1 Business Critical 🔥
@@ -6,5 +6,5 @@ Firmware: Latest
 Type: Desktop
 ```
 
-1. Access Suite landing page <*.trezor.io>.\
-  ➡️ Suite landing page is loaded correctly displayed.
+1. Verify OS detection.\
+  ➡️ OS is automatically correctly detected depending on OS of the device accessing site and compatible installation file is offered correctly.
